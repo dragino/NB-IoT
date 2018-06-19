@@ -1,0 +1,7 @@
+1.NB95 modules support UDP and CoAP protocol.now
+2.the example test BC95' Coap protocol
+3.the coap platform is "∆Ô ø‘∆"
+4.before you test module,you should choose the correct work frequency.
+5.the Arduino board is UNO
+6.you should change the static parameter:UDP_server  UDP_port
+6.before you power on ,you ensure hardware is correct.
